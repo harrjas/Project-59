@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: #80DEEA;
+
+}
+
+img {
+    border-radius: 50%;
+    border-color: #EC407A;
+}
+
+h1 {
+    color: #D500F9;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 56;
+}
+
+h3 {
+    color: darkmagenta;
+}
+
+h4 {
+    color: blueviolet;
+    font-size: 56;
+}
+
+h5 {
+    color: crimson;
+    font-size: 40
+}
+
+.menu {
+    position: fixed;
+    right: 30px;
+}
